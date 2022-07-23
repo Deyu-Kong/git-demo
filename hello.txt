@@ -8,3 +8,6 @@ git commit -m "message" hello.txt
 git log
 git reflog
 
+git branch hot-fix
+git branch -v
+
