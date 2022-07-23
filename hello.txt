@@ -1,8 +1,4 @@
 hello world
-hello world
-hello world
-hello git!
-hello git!
 hello git!
 
 command:
@@ -11,3 +7,4 @@ git add hello.txt
 git commit -m "message" hello.txt
 git log
 git reflog
+
