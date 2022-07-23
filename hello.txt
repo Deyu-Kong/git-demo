@@ -10,4 +10,6 @@ git reflog
 
 git branch hot-fix
 git branch -v
+git checkout hot-fix
+git merge hot fix
 
