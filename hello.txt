@@ -12,3 +12,6 @@ git branch hot-fix
 git branch -v
 git checkout master
 git merge hot-fix
+
+git push git-demo master
+
